@@ -1,6 +1,5 @@
 # ESCI 203   
 ## Introduction to geophysics   
-### Gravity   
 Rupert Sutherland, Victoria University of Wellington, NZ   
 
 All jupyter notebooks in this class are based on python (v3)   
